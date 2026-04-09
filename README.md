@@ -20,6 +20,5 @@ I love creating web applications, exploring modern technologies, and continuousl
 ## Contact Me
 - 📧 Email: [akharrazaya1@gmail.com](mailto:akharrazaya1@gmail.com)  
 - 🌐 LinkedIn: [linkedin.com/in/aya-akharraz](https://www.linkedin.com/in/aya-akharraz-3338783ab/)  
-- 🐙 GitHub: [github.com/akharrazaya1-pixel](https://github.com/akharrazaya1-pixel)  
 
 
