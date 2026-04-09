@@ -6,7 +6,7 @@ I am a **Software Development student** at **École Supérieure de Technologie d
 I love creating web applications, exploring modern technologies, and continuously improving my coding skills.
 
 ## Skills
-- **Programming Languages:** Python, C, HTML, CSS, JavaScript  
+- **Programming Languages:** Python, C, HTML, CSS, JavaScript, php  
 - **Web Development:** Responsive web design, Frontend basics  
 - **Tools & Technologies:** Git, GitHub, VS Code, CodeBlocks
 - **Soft Skills:** Teamwork, Organization, Adaptability, Time Management  
