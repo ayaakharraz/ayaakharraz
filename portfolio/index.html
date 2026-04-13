@@ -3,9 +3,97 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Aya Akharraz Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
-    <p>Hello, World!</p>
+
+<!-- HEADER / HERO -->
+<header id="hero">
+    <div class="hero-content">
+        <h1>Aya Akharraz</h1>
+        <h2>Software Development Student | Web & App Developer</h2>
+        <p class="typing"></p>
+        <a href="#contact" class="btn">Contact Me</a>
+    </div>
+</header>
+
+<!-- ABOUT -->
+<section id="about">
+    <h2>About Me</h2>
+    <p>Hello! I’m Aya, a passionate software development student. I love creating web applications and learning new technologies. I’m motivated to turn ideas into real projects.</p>
+    <div class="info-cards">
+        <div class="card"><strong>Age:</strong> 18</div>
+        <div class="card"><strong>Location:</strong> Agadir, Morocco</div>
+        <div class="card"><strong>Email:</strong> akharrazaya1@gmail.com</div>
+        <div class="card"><strong>Status:</strong> Student</div>
+    </div>
+</section>
+
+<!-- SKILLS -->
+<section id="skills">
+    <h2>Skills</h2>
+    <div class="skill">
+        <span>Python</span>
+        <div class="bar"><div class="fill" style="width: 80%;"></div></div>
+    </div>
+    <div class="skill">
+        <span>C</span>
+        <div class="bar"><div class="fill" style="width: 70%;"></div></div>
+    </div>
+    <div class="skill">
+        <span>HTML/CSS</span>
+        <div class="bar"><div class="fill" style="width: 90%;"></div></div>
+    </div>
+    <div class="skill">
+        <span>JavaScript</span>
+        <div class="bar"><div class="fill" style="width: 65%;"></div></div>
+    </div>
+    <div class="skill">
+        <span>PHP</span>
+        <div class="bar"><div class="fill" style="width: 50%;"></div></div>
+    </div>
+</section>
+
+<!-- PROJECTS -->
+<section id="projects">
+    <h2>Projects</h2>
+    <div class="project-grid">
+        <div class="project-card">
+            <h3>Web Portfolio</h3>
+            <p>Personal portfolio built with HTML, CSS, and JS showcasing my skills and projects.</p>
+            <span>HTML | CSS | JS</span>
+        </div>
+        <div class="project-card">
+            <h3>Python App</h3>
+            <p>A Python program for managing tasks and automating simple processes.</p>
+            <span>Python</span>
+        </div>
+        <div class="project-card">
+            <h3>JavaScript Game</h3>
+            <p>Interactive browser-based game demonstrating JS DOM manipulation and logic.</p>
+            <span>JavaScript</span>
+        </div>
+    </div>
+</section>
+
+<!-- CONTACT -->
+<section id="contact">
+    <h2>Contact Me</h2>
+    <form>
+        <input type="text" placeholder="Your Name" required>
+        <input type="email" placeholder="Your Email" required>
+        <textarea placeholder="Your Message" rows="5" required></textarea>
+        <button type="submit">Send Message</button>
+    </form>
+</section>
+
+<!-- FOOTER -->
+<footer>
+    <p>© 2026 Aya Akharraz | All Rights Reserved</p>
+</footer>
+
+<script src="script.js"></script>
 </body>
 </html>
